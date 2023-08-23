@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+   
+}
+#btn {
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+cursor: pointer;
+width: 200px;
+    height: 60px;
+    background-color: red;
+border-radius: 50px;
+border: 2px solid black;
+transition: 1s;
+margin-top: 50px;
+}
+#btn:hover {
+    background-color: rgb(187, 4, 4);
+    transform: scale(1.4);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
